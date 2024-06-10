@@ -191,3 +191,8 @@ margin-top: 15px;
 .delete .yesno a:hover {
   background-color: #32a367;
 }
+
+svg {
+  width: 50px;
+  color: #ff0000;
+}
