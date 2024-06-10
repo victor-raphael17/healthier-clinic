@@ -1,6 +1,6 @@
 <?php
 function pdo_connect_mysql() {
-    $DATABASE_HOST = '172.17.0.2';
+    $DATABASE_HOST = 'db';
     $DATABASE_USER = 'victorraphael';
     $DATABASE_PASS = 'abc321';
     $DATABASE_NAME = 'healthier';
